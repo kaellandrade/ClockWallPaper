@@ -14,7 +14,7 @@ npm i
 ```Bash
 npm start <TIME_INTERVAL_IN_MINUTES> <IMAGE_CATEGORIES>
 ```
-*(TIME_INTERVAL_IN_MINUTES, IMAGE_CATEGORIES) are optional*
+`TIME_INTERVAL_IN_MINUTES`, `IMAGE_CATEGORIES` are optional*
 
 ### Example
 ```Bash
