@@ -3,7 +3,7 @@ const request = require('request');
 const wallpaper = require('wallpaper');
 
 // Parâmetros passados pelo node
-const TIME_DEFAULT = 5; // 5 minutos por padrão
+const TIME_DEFAULT = 1; // 5 minutos por padrão
 const CATEGORIES_DEFAULT = [
   'animals',
   'plant',
