@@ -16,8 +16,6 @@ const MINUTOS = Number(process.argv[2]) || TIME_DEFAULT;
 
 const CATEGORIES = process.argv[3] || CATEGORIES_DEFAULT.join(','); // recebe as CATEGORIES por parâmetro
 
-console.log(CATEGORIES)
-
 /**
  * Usando Unsplash para capturar imagens 
  */
