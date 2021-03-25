@@ -20,6 +20,8 @@ npm start <TIME_INTERVAL_IN_MINUTES> <IMAGE_CATEGORIES>
 ```Bash
 npm start 10 animals,plant,space
 ```
+Press `Ctrl + C` to finalize
+
 ---
 
 ## References 😘
